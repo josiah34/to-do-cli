@@ -2,7 +2,7 @@
 
 Simple cli to do list written in go. 
 
-![todos](https://github.com/user-attachments/assets/4f291647-b139-4808-a3aa-cb04e1963453)
+
 
 
 ## Table of Contents
