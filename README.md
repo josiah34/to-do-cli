@@ -2,6 +2,7 @@
 
 Simple cli to do list written in go. 
 
+![Animation](https://github.com/user-attachments/assets/fb4d61bc-8914-47a2-a523-683f93ba3792)
 
 
 
